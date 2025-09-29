@@ -51,4 +51,4 @@ I’m proud to be ranked in the **Top 1% on TryHackMe**. (See my profile → [Tr
 
 - LinkedIn: [Rohit Punne](https://www.linkedin.com/in/rohit-punne-4a15172a0/)  
 - TryHackMe: [Rohit0](https://tryhackme.com/p/Rohit0)  
-- Email: **your.email@example.com**  
+- Email: **rohitpunne292@gmail.com**  
