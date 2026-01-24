@@ -1,6 +1,6 @@
 # **Rohit Punne**
 
-**SOC Analyst | Cybersecurity Specialist | Penetration Tester | Top 1% on TryHackMe**
+**SOC Analyst | Cybersecurity Specialist | Penetration Tester**
 
 ---
 
